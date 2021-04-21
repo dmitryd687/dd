@@ -3,7 +3,7 @@
 <!-- Modifying this generated file will probably render it invalid -->
 <DataGenDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="6.2">
   <ConnectionModel>
-    <PropertyValue Name="ConnectionString" xml:space="preserve">Data Source=dbfsqlsrv\SQLLAST;Encrypt=False;Integrated Security=False;User ID=sa</PropertyValue>
+    <PropertyValue Name="ConnectionString" xml:space="preserve">Data Source=dbfsqlsrv\SQLLAST;Encrypt=False;Integrated Security=False;User ID=su;Password=su</PropertyValue>
     <PropertyValue Name="Database" xml:space="preserve">aa8afe9c-7d62-4564-b477-c12e62e0f440</PropertyValue>
   </ConnectionModel>
   <Settings>
