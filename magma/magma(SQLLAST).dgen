@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Devart (www.devart.com), Data-Generator document file -->
 <!-- Modifying this generated file will probably render it invalid -->
-<DataGenDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="5.0">
+<DataGenDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="6.2">
+  <ConnectionModel>
+    <PropertyValue Name="ConnectionString" xml:space="preserve">Data Source=dbfsqlsrv\SQLLAST;Encrypt=False;Integrated Security=False;User ID=sa</PropertyValue>
+    <PropertyValue Name="Database" xml:space="preserve">aa8afe9c-7d62-4564-b477-c12e62e0f440</PropertyValue>
+  </ConnectionModel>
   <Settings>
     <ProviderVersion>5.7.71.0</ProviderVersion>
     <GeneratorVersion>6.1.1080.0</GeneratorVersion>
     <Provider>aa8afe9c-7d62-4564-b477-c12e62e0f440</Provider>
-    <ConnectionString>Data Source=dbfsqlsrv\SQLLAST;Encrypt=False;Integrated Security=False;User ID=sa</ConnectionString>
-    <CategoryId>00000000-0000-0000-0000-000000000000</CategoryId>
     <DatabaseName>magma</DatabaseName>
     <AllowNulls>true</AllowNulls>
     <IncludeNullsPercent>10</IncludeNullsPercent>
